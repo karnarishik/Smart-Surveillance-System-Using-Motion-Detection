@@ -1,4 +1,6 @@
 Smart Surveillance System Using Motion Detection
+
+
 This project was developed as a Course Based Project to create a simple and efficient surveillance system using Python and OpenCV. The system continuously monitors live video from a webcam and automatically detects motion in the scene.
 
 Whenever motion is detected, the system highlights the moving object, captures screenshots, records video footage, generates alerts, and stores event logs with timestamps. The main goal of this project is to provide a low-cost and automated surveillance solution that can be used for homes, offices, classrooms, laboratories, and other security-sensitive areas.
@@ -49,5 +51,8 @@ Email and SMS Notifications
 Cloud Storage Integration
 Multi-Camera Support
 Remote Monitoring Dashboard
+
 Author
-Rishit Datta Kona B.E. CSE (AI & ML) Vasavi College of Engineering, Hyderabad
+
+Karna Rishik
+B.E. CSE (AI & ML) Vasavi College of Engineering, Hyderabad
